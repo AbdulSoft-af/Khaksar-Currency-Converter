@@ -1,0 +1,9 @@
+{
+  "name": "Khaksar Currency Converter",
+  "short_name": "Khaksar FX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0b4aa2",
+  "icons": []
+}
