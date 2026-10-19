@@ -15,6 +15,3 @@ Sources
 Da Afghanistan Bank: https://www.dab.gov.af/exchange-rates
 Sarai Shahzada market rates (Sarafi.af): https://sarafi.af/fa/exchange-rates/sarai-shahzada
 
-Files
------
-index.html, assets/style.css, assets/app.js, manifest.json, sw.js
